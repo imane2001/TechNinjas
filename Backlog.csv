@@ -1,0 +1,4 @@
+ID,Epic,Story,Type,MoSCoW,Estimate,ACs (Gherkin inline),Linked NFRs,Planned Test IDs,Notes
+ST-01,EP-02 – User Authentication,Login and Lockout,Feature,MUST,3,"Given wrong password > lockout after 5 tries; Given valid login > redirect to dashboard",Security; Reliability,T-SEC-01; T-REL-01,Core security flow
+ST-02,EP-02 – Content Access & Performance,Fast Page Load,Feature,SHOULD,2,"When page loads > <3s; Page is readable with screen reader and high contrast",Performance; Accessibility,T-PERF-01; T-A11Y-01,Optimized for speed and inclusion
+ST-03,EP-03 – User Experience & Usability,Booking Flow,Feature,COULD,2,"New user completes booking <2Qs without errors; Page passes post-release unit tests",Usability; Maintainability,T-UX-01; T-MAINT-01,Streamlined user journey

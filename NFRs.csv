@@ -1,0 +1,7 @@
+ID,Category,Measurable Statement,Rationale,Verification Approach,Test Plan ID,Owner
+NFR-01,Performance,Main pages should load in under 3 seconds for normal users,Ensure fast and responsive user experience,Manual speed test or browser tool,T-PERF-01,Developer
+NFR-02,Security,Users must log in with a password and account locks after 5 failed attempts,Protect user accounts and prevent brute-force attacks,Try wrong logins during test,T-SEC-01,Developer
+NFR-03,Usability,A new user should be able to book or register within 30 seconds without help,Ensure intuitive and efficient user flow,Observe 5 users testing it,T-UX-01,UX tester
+NFR-04,Reliability,System should be available 95% of the time during normal hours,Maintain consistent service availability,Monitor uptime,T-REL-01,Project lead
+NFR-05,Accessibility,App must work with screen readers and have clear text contrast,Support inclusive access for all users,Accessibility check,T-A11Y-01,Developer
+NFR-06,Maintainability,Code should be easy to update and tested before release,Enable smooth updates and reduce bugs,Code review,T-MAINT-01,Developer

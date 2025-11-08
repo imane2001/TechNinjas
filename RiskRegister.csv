@@ -1,0 +1,6 @@
+ID,Description (hypothesis),Cause,Impact,L,S,Exposure,Owner,First Action,Trigger,Next Review
+RISK-01,System becomes slow with many users,High user load overwhelms backend,Pages take too long to load,3,4,12,Developer,Optimize code and test load early,Response time > 3s,Weekly
+RISK-02,Login errors or password leaks,Weak authentication or insecure transmission,User accounts compromised,2,5,10,Developer,Use HTTPS and strong password rules,Failed login attempts or audit flags,Weekly
+RISK-03,Users find site confusing,Poor layout or unclear instructions,Low engagement or task failure,3,3,9,UX tester,Do small user test before release,Negative feedback or drop-off,Weekly
+RISK-04,Deadline may slip due to delays,Team blockers or scope creep,Project delivery postponed,4,3,12,Project lead,Weekly progress check,Missed milestone or task slippage,Weekly
+RISK-05,Accessibility not ready on time,Design overlooks inclusive features,Excludes users with disabilities,2,3,6,Developer,Use WCAG checklist during build,Accessibility test failure,Weekly

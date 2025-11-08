@@ -1,0 +1,4 @@
+﻿StoryID,Epic,Linked NFRs,AC IDs,Test IDs,Evidence Link
+ST-01,EP-01 – User Authentication,"NFR-02 (Security), NFR-04 (Reliability)",AC-01 – Given wrong password → lock after 5 tries; AC-02 – Given valid login → redirect to dashboard,T-SEC-01; T-REL-01,evidence/EV-01_auth_test_report.pdf
+ST-02,EP-02 – Content Access & Performance,"NFR-01 (Performance), NFR-05 (Accessibility)",AC-03 – When page loads → ≤ 3 s; AC-04 – Page is readable with screen reader and high contrast,T-PERF-01; T-A11Y-01,evidence/EV-02_perf_accessibility_log.pdf
+ST-03,EP-03 – User Experience & Usability,"NFR-03 (Usability), NFR-06 (Maintainability)",AC-05 – New user completes booking ≤ 30 s without help; AC-06 – Code passes pre-release unit tests,T-UX-01; T-MAINT-01,evidence/EV-03_usability_report.pdf
