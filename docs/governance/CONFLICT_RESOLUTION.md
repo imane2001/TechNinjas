@@ -58,4 +58,5 @@ This document records how merge conflicts are identified, resolved, and evidence
 - Resolution PRs are labeled with governance: conflict-resolution.
 - CI must pass before merge.
 
+<!-- Added clarification for merge conflict resolution steps -->
 
