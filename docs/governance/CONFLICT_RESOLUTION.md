@@ -60,3 +60,5 @@ This document records how merge conflicts are identified, resolved, and evidence
 
 <!-- Added clarification for merge conflict resolution steps -->
 
+<!-- Conflict resolved between governance-files and main -->
+
