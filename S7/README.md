@@ -10,11 +10,12 @@ This README provides both **evidence of governance practices** and **links to go
 - **PR-A (Governance PR):** [Link to PR-A](https://github.com/ChinemeremAdilike/TechNinjas/pull/1)
   Adds governance files, uses checklist, shows green CI and approval.
 
-- **PR-B (Tiny feature/docs PR):** [Link to PR-B](https://github.com/ChinemeremAdilike/TechNinjas/pull/YY)  
+- **PR-B (Tiny feature/docs PR):** - **PR-B (Collaborative Review):** [Link to PR-B](https://github.com/ChinemeremAdilike/TechNinjas/pull/2)  
   Opened by a different teammate, demonstrates checklist and respectful review.
 
 ### 🔀 Conflict Resolution
-- **Commit:** [Link to conflict resolution commit](https://github.com/ChinemeremAdilike/TechNinjas/commit/ZZZZZZ)  
+- **Conflict Resolution Commit:** [Link to commit](https://github.com/ChinemeremAdilike/TechNinjas/commit/546e6cf)
+ 
   Resolved merge conflict in `index.html`. Verified by running `npm test` and checking UI manually.
 
 ### 🔒 Branch Protection
