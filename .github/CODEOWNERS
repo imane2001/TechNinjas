@@ -1,0 +1,17 @@
+# CODEOWNERS – TechNinjas
+# This file defines who is responsible for reviewing changes in specific parts of the repo.
+
+# Default owners for everything in the repo
+*       @ChinemeremAdilike
+
+# Governance docs
+/docs/governance/   @ChinemeremAdilike
+
+# CI workflows
+/.github/workflows/ @ChinemeremAdilike
+
+# Frontend code (example)
+/src/frontend/      @ChinemeremAdilike
+
+# Backend code (example)
+/src/backend/       @ChinemeremAdilike
