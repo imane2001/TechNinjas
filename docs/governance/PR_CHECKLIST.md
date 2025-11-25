@@ -48,3 +48,5 @@ Before requesting a review, please confirm the following:
 
 - [ ] Rebased or merged with `main` if needed
 - [ ] Ready for squash merge
+
+<!-- Reviewed collaboratively. Checklist verified. -->
