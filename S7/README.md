@@ -14,7 +14,8 @@ This README provides both **evidence of governance practices** and **links to go
   Opened by a different teammate, demonstrates checklist and respectful review.
 
 ### 🔀 Conflict Resolution
-- **Commit:** [Link to conflict resolution commit](https://github.com/ChinemeremAdilike/TechNinjas/commit/ZZZZZZ)  
+- **Conflict Resolution Commit:** [Link to commit](https://github.com/ChinemeremAdilike/TechNinjas/commit/546e6cf)
+ 
   Resolved merge conflict in `index.html`. Verified by running `npm test` and checking UI manually.
 
 ### 🔒 Branch Protection
