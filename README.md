@@ -4,11 +4,7 @@ Public URL: https://tech-ninjas-website-2025.s3.eu-north-1.amazonaws.com/Tech+Ni
 
 This site hosts our Tech Ninjas student project, focused on building cloud-powered educational tools. The /s6/ folder contains all required documentation including backlog, non-functional requirements, risk register, traceability matrix, and test evidence files in CSV format.#   T e c h - N i n j a s 
  
- #   T e c h N i n j a s 
- 
- #   T e c h - N i n j a s 
- 
- #   T e c h N i n j a s 
+
 
 ## 📑 Governance Evidence
 
