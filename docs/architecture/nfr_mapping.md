@@ -1,0 +1,9 @@
+# NFR Mapping – Tech Ninjas
+
+We picked a few non‑functional requirements that make sense for our app right now. Each row links a goal to a tactic, the components affected, notes on the API surface, the test ID we plan to run, where the evidence will live, and who owns it.
+
+| NFR ID      | Tactic / Pattern                          | Impacted Components                     | Interface Notes                                                                                      | Verification (Test ID)  | Evidence Plan (path)                        | Owner         | Due         |
+|-------------|-------------------------------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------|---------------------------------------------|---------------|-------------|
+| NFR-PERF-01 | Simple read-optimised queries + pagination| API Gateway, Course Service, DB layer   | `GET /v1/courses` returns a small list and uses cursor pagination.                                    | T-PERF-01 (planned)     | evidence/EV-perf-courses.pdf (planned)     | Tech Ninjas   | 2025-11-15  |
+| NFR-A11Y-01 | Semantic HTML + basic a11y lint (pa11y)   | Web UI (Dashboard page)                 | `/dashboard` uses headings, labels and alt text so the automated WCAG2AA check has 0 critical errors.| T-A11Y-01               | evidence/EV-a11y-dashboard.html            | Tech Ninjas   | 2025-11-05  |
+| NFR-AVAIL-01| Health check + simple uptime probe        | API Gateway, Dashboard Service          | `GET /v1/dashboard` checked every minute by a small uptime script; we do not send alerts yet.        | T-AV-01 (planned)       | evidence/EV-uptime-dashboard.pdf (planned) | Tech Ninjas   | 2025-11-30  |
