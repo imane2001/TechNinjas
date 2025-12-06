@@ -5,7 +5,7 @@
 **Strong**
 
 * Their context diagram was easy to read and clearly showed the external systems.
-* Error handling was consistent across their main endpoints.
+* Error handling was consistent across their main endpoints
 
 **Risk**
 
