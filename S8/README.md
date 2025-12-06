@@ -1,6 +1,6 @@
 # S8 – Design Principles & Architecture
 
-This folder contains the S8 evidence for our project.
+This folder contains the S8 evidence for our project
 
 ## Architecture artifacts
 
