@@ -4,4 +4,4 @@ Command:
 pa11y http://localhost:3000/dashboard --standard WCAG2AA --reporter html > evidence/EV-a11y-dashboard.html
 
 Expected:
-The report should show no critical WCAG2AA errors. Minor warnings are acceptable for now.
+The report should show no critical WCAG2AA errors. Minor warnings are acceptable for now
