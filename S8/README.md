@@ -4,7 +4,7 @@ This folder contains the S8 evidence for our project.
 
 ## Architecture artifacts
 
-- Context diagram: [../docs/architecture/context.png](../docs/architecture/context.png)
+- Context diagram: [../docs/architecture/context.png](../docs/architecture/context_diagram_regenerated.png)
 - Component diagram: [../docs/architecture/components.png](../docs/architecture/components.png)
 - Interfaces (3 main endpoints): [../docs/architecture/interfaces.md](../docs/architecture/interfaces.md)
 - NFR mapping: [../docs/architecture/nfr_mapping.md](../docs/architecture/nfr_mapping.md)
